@@ -4,4 +4,9 @@
     {
         echo "Some for loop just for fun";
     }
+    function func()
+    {
+            echo "Function for printing something";
+    }
+    func();
 ?>
